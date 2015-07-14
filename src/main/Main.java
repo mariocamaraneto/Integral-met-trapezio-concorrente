@@ -5,6 +5,7 @@ package main;
 
 public class Main {
 
+
 	static long tempo_inicial = 0;
 	static long tempo_final = 0;
 	static long soma_tempos = 0;
